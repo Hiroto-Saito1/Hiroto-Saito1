@@ -1,8 +1,10 @@
-<img align="right" width="160" src="assets/profile.jpg" alt="Portrait of Hiroto Saito">
-
 # Hiroto Saito (齋藤寛人)
 
+<img align="right" width="160" src="assets/profile.jpg" alt="Portrait of Hiroto Saito">
+
 I develop first-principles and symmetry-based models for magnetization-direction-dependent phenomena in ferromagnets. My doctoral research combined time-reversal-symmetric Wannier Hamiltonians with multipole decomposition to study magnetocrystalline anisotropy and the in-plane anomalous Hall effect, with relevance to magnetic materials and spintronic devices, including magnetoresistive random-access memory (MRAM).
+
+<br clear="right">
 
 ## Current Affiliation
 
