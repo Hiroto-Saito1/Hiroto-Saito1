@@ -2,7 +2,7 @@
 
 <img align="right" width="160" src="assets/profile.jpg" alt="Portrait of Hiroto Saito">
 
-I develop first-principles and symmetry-based models for magnetization-direction-dependent phenomena in ferromagnets. My doctoral research combined time-reversal-symmetric Wannier Hamiltonians with multipole decomposition to study magnetocrystalline anisotropy and the in-plane anomalous Hall effect, with relevance to magnetic materials and spintronic devices, including magnetoresistive random-access memory (MRAM).
+I work on first-principles calculations and symmetry-based approaches to magnetic materials. I am especially interested in how magnetization direction changes electronic and transport properties, and in building workflows that make those effects easier to understand and reproduce, with an eye toward spintronic materials and MRAM.
 
 <br clear="right">
 
@@ -13,8 +13,6 @@ I develop first-principles and symmetry-based models for magnetization-direction
 ## Education
 
 **Ph.D. in Physics**, Tohoku University | 2017 - 2025
-
-**Doctoral Thesis:** *First-Principles Analysis of Magnetization-Direction Dependence in Ferromagnets Using Symmetry-Adapted Wannier Hamiltonians*
 
 ## Research Focus
 
