@@ -31,6 +31,7 @@ I work on first-principles calculations and symmetry-based approaches to magneti
 
 1. Hiroto Saito and Takashi Koretsune, *Efficient calculation of magnetocrystalline anisotropy energy using symmetry-adapted Wannier functions*, **Computer Physics Communications** 305, 109325 (2024). [DOI: 10.1016/j.cpc.2024.109325](https://doi.org/10.1016/j.cpc.2024.109325)
 2. Hiroto Saito and Takashi Koretsune, *First-principles analysis of in-plane anomalous Hall effect using symmetry-adapted Wannier Hamiltonians and multipole decomposition*, **Physical Review B**, accepted (2026). [DOI: 10.1103/wbhp-rvb7](https://doi.org/10.1103/wbhp-rvb7)
+3. Yutaro Mori, Hiroto Saito, Shota Namerikawa, Masayoshi Shimizu, Ryotaro Arita, and Takashi Koretsune, *First-principles calculations of the magnetocrystalline anisotropy energy in disordered alloys using Wannier-based coherent potential approximation*, submitted to **Journal of the Physical Society of Japan** (2026).
 
 ## Selected Presentations
 
