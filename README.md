@@ -23,14 +23,14 @@ I work on first-principles calculations and symmetry-based approaches to magneti
 
 ## Featured Repositories
 
-- [In-plane anomalous Hall effect: data and reproduction scripts](https://github.com/Hiroto-Saito1/First-principles_in-plane_AHE_using_symmetry-adapted_Wannier_Hamiltonians_multipole_decomposition): Reproducibility release accompanying my 2026 preprint, including processed figure data, workflow manifests, and lightweight tests.
+- [In-plane anomalous Hall effect: data and reproduction scripts](https://github.com/Hiroto-Saito1/First-principles_in-plane_AHE_using_symmetry-adapted_Wannier_Hamiltonians_multipole_decomposition): Reproducibility release accompanying my 2026 Physical Review B article, including processed figure data, workflow manifests, and lightweight tests.
 - [Magnetocrystalline anisotropy calculations](https://github.com/Hiroto-Saito1/magnetic_anisotropy): Programs and test data associated with my 2024 paper on symmetry-adapted Wannier functions.
 - [msg_database](https://github.com/Hiroto-Saito1/msg_database): Python and SQLite tooling for generating and querying the 1,651 magnetic space groups provided by `spglib`.
 
 ## Selected Publications
 
 1. Hiroto Saito and Takashi Koretsune, *Efficient calculation of magnetocrystalline anisotropy energy using symmetry-adapted Wannier functions*, **Computer Physics Communications** 305, 109325 (2024). [DOI: 10.1016/j.cpc.2024.109325](https://doi.org/10.1016/j.cpc.2024.109325)
-2. Hiroto Saito and Takashi Koretsune, *First-principles analysis of in-plane anomalous Hall effect using symmetry-adapted Wannier Hamiltonians and multipole decomposition*, **Physical Review B**, accepted (2026). [DOI: 10.1103/wbhp-rvb7](https://doi.org/10.1103/wbhp-rvb7)
+2. Hiroto Saito and Takashi Koretsune, *First-principles analysis of in-plane anomalous Hall effect using symmetry-adapted Wannier Hamiltonians and multipole decomposition*, **Physical Review B**, published August 12, 2026. [DOI: 10.1103/wbhp-rvb7](https://doi.org/10.1103/wbhp-rvb7)
 3. Yutaro Mori, Hiroto Saito, Shota Namerikawa, Masayoshi Shimizu, Ryotaro Arita, and Takashi Koretsune, *First-principles calculations of the magnetocrystalline anisotropy energy in disordered alloys using Wannier-based coherent potential approximation*, submitted to **Journal of the Physical Society of Japan** (2026).
 
 ## Selected Presentations
